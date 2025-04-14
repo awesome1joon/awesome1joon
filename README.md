@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+-저는 2학년 7반 16번 이원준입니다. <br>
+-저는 선형 회귀와 같은 머신러닝을 잘합니다.
